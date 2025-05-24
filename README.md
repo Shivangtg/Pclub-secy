@@ -95,3 +95,51 @@ backend/
 ├── database/
 ├── middleware/
 └── server.js
+```
+
+
+
+## ⚙️ Environment Setup
+
+To run the **Progbattle** project locally, you need to configure environment variables for both the **backend** and **frontend**.
+
+---
+
+### 🛠️ Backend Configuration
+
+1. Navigate to the backend directory:
+
+```bash
+cd backend
+```
+
+2 Create a .env file in the root of your backend folder.
+
+3 Add the following environment variables to the .env file:
+
+```bash
+DB_USER=your_postgres_username
+DB_PASSWORD=your_postgres_password
+DB_NAME=your_database_name
+DB_HOST=your_database_host
+DB_PORT=5432
+PORT=5000
+```
+
+### 🌐 Frontend Configuration
+1. Navigate to the frontend directory:
+
+```bash
+
+cd frontend
+```
+
+2 Create a .env file in the root of the frontend directory.
+
+3 Add the following environment variable:
+
+```env
+NEXT_PUBLIC_API_URL=http://localhost:5000
+```
+
+This variable is used to connect your Next.js frontend to the backend API
