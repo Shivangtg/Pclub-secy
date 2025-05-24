@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Icons"
+   viewBox="0 0 48 48"
+   version="1.1"
+   sodipodi:docname="login.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.387365"
+     inkscape:cx="29.94547"
+     inkscape:cy="27.969596"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Icons" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#45413c;opacity:0.15;}.cls-2{fill:#ffe500;}.cls-3{fill:#fff48c;}.cls-4{fill:none;stroke:#45413c;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <title
+     id="title1">383-waving-hand-1</title>
+  <ellipse
+     id="_Ellipse_"
+     data-name="&lt;Ellipse&gt;"
+     class="cls-1"
+     cx="25.631754"
+     cy="40.747681"
+     rx="11.12157"
+     ry="1.3345884"
+     style="stroke-width:0.889726" />
+  <path
+     id="_Path_"
+     data-name="&lt;Path&gt;"
+     class="cls-2"
+     d="m 34.048558,17.401282 -0.115665,2.900505 -9.98272,-9.991618 a 2.3043892,2.3043892 0 0 0 -3.060656,-0.25802 2.2154167,2.2154167 0 0 0 -0.169048,3.291984 L 19.305805,11.92947 a 2.4645398,2.4645398 0 0 0 -3.354265,-0.186843 2.3755673,2.3755673 0 0 0 -0.08897,3.443238 l -0.01779,-0.04449 a 2.2510057,2.2510057 0 0 0 -2.669184,-0.40927 2.2243139,2.2243139 0 0 0 -0.471555,3.505519 l 2.669177,2.669176 a 1.948499,1.948499 0 0 0 -2.882711,0.142356 2.0285743,2.0285743 0 0 0 0.213534,2.669177 l 11.148262,11.246131 a 8.3545231,8.3545231 0 0 0 11.895631,-0.05338 12.874329,12.874329 0 0 0 3.558902,-9.617934 L 38.977637,14.500776 a 0.96090361,0.96090361 0 0 0 -0.960903,-0.889725 v 0 a 3.9592788,3.9592788 0 0 0 -3.968176,3.790231 z"
+     style="stroke-width:0.889726" />
+  <g
+     id="_Group_"
+     data-name="&lt;Group&gt;"
+     transform="matrix(0.88972557,0,0,0.88972557,4.2783407,0.26516762)">
+    <path
+       id="_Path_2"
+       data-name="&lt;Path&gt;"
+       class="cls-3"
+       d="M 33.33,22.52 22.11,11.29 A 2.59,2.59 0 0 0 18.67,11 a 2.48,2.48 0 0 0 -0.36,3.49 1.8,1.8 0 0 1 0.36,-0.37 2.59,2.59 0 0 1 3.44,0.27 l 9.66,9.67 z" />
+    <path
+       id="_Path_3"
+       data-name="&lt;Path&gt;"
+       class="cls-3"
+       d="M 39.09,19.12 39,16 a 1.08,1.08 0 0 0 -1.08,-1 4.45,4.45 0 0 0 -4.45,4.29 l -0.13,3.26 0.13,-0.14 a 4.46,4.46 0 0 1 4.45,-4.29 1.17,1.17 0 0 1 1.17,1 z" />
+  </g>
+  <path
+     id="_Path_4"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     d="m 34.048558,17.401282 -0.115665,2.900505 -9.98272,-9.991618 a 2.3043892,2.3043892 0 0 0 -3.060656,-0.25802 2.2154167,2.2154167 0 0 0 -0.169048,3.291984 L 19.305805,11.92947 a 2.4645398,2.4645398 0 0 0 -3.354265,-0.186843 2.3755673,2.3755673 0 0 0 -0.08897,3.443238 l -0.01779,-0.04449 a 2.2510057,2.2510057 0 0 0 -2.669184,-0.40927 2.2243139,2.2243139 0 0 0 -0.471555,3.505519 l 2.669177,2.669176 a 1.948499,1.948499 0 0 0 -2.882711,0.142356 2.0285743,2.0285743 0 0 0 0.213534,2.669177 l 11.148262,11.246131 a 8.3545231,8.3545231 0 0 0 11.895631,-0.05338 12.874329,12.874329 0 0 0 3.558902,-9.617934 L 38.977637,14.500776 a 0.96090361,0.96090361 0 0 0 -0.960903,-0.889725 v 0 a 3.9592788,3.9592788 0 0 0 -3.968176,3.790231 z"
+     style="stroke-width:0.889726" />
+  <line
+     id="_Path_5"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     x1="15.257555"
+     y1="20.889006"
+     x2="20.64929"
+     y2="26.271845"
+     style="stroke-width:0.889726" />
+  <line
+     id="_Path_6"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     x1="15.862569"
+     y1="15.194764"
+     x2="23.790022"
+     y2="23.122217"
+     style="stroke-width:0.889726" />
+  <line
+     id="_Path_7"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     x1="20.720469"
+     y1="13.361929"
+     x2="27.135389"
+     y2="19.785746"
+     style="stroke-width:0.889726" />
+  <path
+     id="_Path_8"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     d="m 33.932893,20.301787 -3.17632,3.17632 a 5.3383534,5.3383534 0 0 0 0,7.55377 v 0"
+     style="stroke-width:0.889726" />
+  <path
+     id="_Path_9"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     d="M 25.729624,8.0591636 A 8.0609136,8.0609136 0 0 1 29.564341,9.8386147 8.6481325,8.6481325 0 0 1 31.9666,13.397517"
+     style="stroke-width:0.889726" />
+  <path
+     id="_Path_10"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     d="m 26.236767,5.6835964 a 9.8403648,9.8403648 0 0 1 4.73334,2.1531358 10.534351,10.534351 0 0 1 2.962786,4.3863468"
+     style="stroke-width:0.889726" />
+  <path
+     id="_Path_11"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     d="m 8.4155646,21.832115 a 8.0075301,8.0075301 0 0 0 0.7028832,4.155018 8.5858517,8.5858517 0 0 0 2.8204292,3.229704"
+     style="stroke-width:0.889726" />
+  <path
+     id="_Path_12"
+     data-name="&lt;Path&gt;"
+     class="cls-4"
+     d="m 5.9866138,21.707553 a 9.849262,9.849262 0 0 0 0.8897255,5.133717 10.676707,10.676707 0 0 0 3.4788267,3.994868"
+     style="stroke-width:0.889726" />
+  <text
+     xml:space="preserve"
+     style="font-size:4.98393px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff00ff;stroke-width:0.415326"
+     x="9.1656036"
+     y="47.183804"
+     id="text1"
+     transform="scale(1.0020292,0.99797491)"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="9.1656036"
+       y="47.183804"
+       style="stroke-width:0.415326">Welcome Back</tspan><tspan
+       sodipodi:role="line"
+       x="9.1656036"
+       y="53.413715"
+       id="tspan2"
+       style="stroke-width:0.415326" /></text>
+</svg>

@@ -1,0 +1,33 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@monaco-editor/react": "^4.7.0",
+    "classnames": "^2.5.1",
+    "clsx": "^2.1.1",
+    "monaco": "^1.201704190613.0",
+    "monaco-editor": "^0.52.2",
+    "next": "15.3.2",
+    "react": "^19.0.0",
+    "react-complex-tree": "^2.6.0",
+    "react-dom": "^19.0.0",
+    "zustand": "^5.0.4"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "22.15.19",
+    "@types/react": "19.1.4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "tailwindcss": "^4"
+  }
+}
