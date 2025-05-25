@@ -97,7 +97,32 @@ backend/
 └── server.js
 ```
 
+### Backend Paths
 
+1. Auth
+  api/auth/login
+  api/auth/signup
+
+2 Leaderboard
+  api/teams/getAllTeams
+  api/teams/getTopTeams
+  api/teams/createTeam
+  api/teams/joinATeam
+
+3 User
+  api/user/changeUserImage
+  api/user/leaveTeam
+
+4 Code Controlling
+  api/code/savingCode
+  api/code/getAllCodeHistory
+  api/code/getCodeAtCommit
+
+5 Admin Actions
+  api/Admin/conductPrimaryMatches
+  api/Admin/conductSecondaryMatches (incomplete)
+  api/Admin/conductChallenges
+  api/Admin/getResultOfRoundOne
 
 ## ⚙️ Environment Setup
 
